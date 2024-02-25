@@ -4,7 +4,7 @@ Hi 👋 My name is Chanyapat Rattankot
 Back-End Developer
 ------------------
 
-I have been a developer for 5 years. During the first 2 years, I worked as a web developer, focusing on HTML, CSS, Bootstrap, JavaScript, and Java. Since then, up until the present, I have been working as a back-end developer with Go, which has been quite interesting for me. Currently, I have a keen interest in and am studying CI/CD and Docker.
+I have been a developer for 5 years. During the first 2 years, I worked as a web developer, focusing on HTML, CSS, Bootstrap, JavaScript, and Java. Since then, up until the present, I have been working as a back-end developer with Go, which has been quite interesting for me. Currently, I am learning CI/CD and Docker.
 
 * 🌍  I'm based in Phuket, Thailand
 * ✉️  You can contact me at [chanyapatshell@gmail.com](mailto:chanyapatshell@gmail.com)
